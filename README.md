@@ -4,7 +4,7 @@ Unique code Generator using python and tkinter lib
 *Generator's logic*
 - Enter let's say: 1234567891 (10 digits)
 - Reverse the number: 1987654321
-- You have a secret array of digits: 147258369
+- You have a secret array of digits: 14725836
 - The script makes the unique code by adding the digits in a vertical way
 
 > First digit from entry number + first digit from reversed + first digit from the secret array

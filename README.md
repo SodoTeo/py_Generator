@@ -15,7 +15,7 @@ Unique code Generator using python and tkinter lib
 - Shows the unique code (last 6 digits from the addition)
 
 ---------------------------------------------------------------------------------------------------
-                  Start                      |  After generating the code 
-                  :-------------------------:|:-------------------------:
-                  ![image](https://drive.google.com/uc?export=view&id=1Puogpofa7mJqhijUVxiNSGElTkgJ6eOE)  |  ![image](https://drive.google.com/uc?export=view&id=1Dj6k3WJI9hQ-h8pZNbsBpYbOiqFxjVSP)
+Start                      |  After generating the code 
+:-------------------------:|:-------------------------:
+![image](https://drive.google.com/uc?export=view&id=1Puogpofa7mJqhijUVxiNSGElTkgJ6eOE)  |  ![image](https://drive.google.com/uc?export=view&id=1Dj6k3WJI9hQ-h8pZNbsBpYbOiqFxjVSP)
 ---------------------------------------------------------------------------------------------------
